@@ -3,7 +3,7 @@ package array;
 public class ArrayDi0 {
     public static void main(String[] args) {
         // 2x3 2차원 배열을 만든다.
-        int arr[][] = new int[2][3]; //행은 2, 열은 3;
+        int [][] arr = new int[2][3]; //행은 2, 열은 3;
 
         arr[0][0] = 1; //0행 0열
         arr[0][1] = 2; //0행 1열
