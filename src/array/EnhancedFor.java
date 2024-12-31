@@ -20,5 +20,5 @@ public class EnhancedFor {
             System.out.println("number" + i + "번의 결과는: " + numbers[i]);
         }
 
-    }
+    }//복습완료 12_31
 }
