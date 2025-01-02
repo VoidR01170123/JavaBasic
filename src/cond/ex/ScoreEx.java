@@ -19,3 +19,4 @@ public class ScoreEx {
         System.out.println("학점은 " + grade + "입니다.");
     }
 }
+//복습 완료
